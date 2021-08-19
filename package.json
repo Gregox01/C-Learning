@@ -1,0 +1,23 @@
+{
+  "name": "ns-eslint-testing",
+  "version": "1.0.0",
+  "description": "Repositorio de Prueba para esLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adistec",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregox01/p5Training.git"
+  },
+  "keywords": [
+    "eslint",
+    "netsuite"
+  ],
+  "bugs": {
+    "url": "https://github.com/Gregox01/p5Training/issues"
+  },
+  "homepage": "https://github.com/Gregox01/p5Training#readme"
+}
