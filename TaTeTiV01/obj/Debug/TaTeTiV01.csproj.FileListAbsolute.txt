@@ -1,0 +1,20 @@
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\bin\Debug\TaTeTiV01.exe.config
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\bin\Debug\TaTeTiV01.exe
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\bin\Debug\TaTeTiV01.pdb
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.csprojAssemblyReference.cache
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.Form1.resources
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.Properties.Resources.resources
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.csproj.GenerateResource.cache
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.csproj.CoreCompileInputs.cache
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.exe
+C:\Users\Gregorio\source\repos\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.pdb
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\bin\Debug\TaTeTiV01.exe.config
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\bin\Debug\TaTeTiV01.exe
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\bin\Debug\TaTeTiV01.pdb
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.csproj.AssemblyReference.cache
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.Form1.resources
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.Properties.Resources.resources
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.csproj.GenerateResource.cache
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.csproj.CoreCompileInputs.cache
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.exe
+Z:\Downloads\MyFlow\Files To keep\ConsoleApp1\TaTeTiV01\obj\Debug\TaTeTiV01.pdb
